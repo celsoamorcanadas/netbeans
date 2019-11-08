@@ -11,6 +11,6 @@ and open the template in the editor.
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-       Hola Segismundo, hoy es 8/11/2019 con netbeans
+       Hola Segismundo, hoy es 8/11/2019 con netbeans2
     </body>
 </html>
